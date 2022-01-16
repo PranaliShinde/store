@@ -1,0 +1,50 @@
+#add
+{
+    background-color: green;
+    color: white;
+    margin-left: 440px;
+    margin-top: 50px;
+}
+
+#update
+{
+    background-color: green;
+    color: white;
+    margin-left: 420px;
+    margin-top: 50px;
+
+}
+
+#delete
+{
+    background-color: green;
+    
+    color: white;
+    margin-left: 425px;
+    margin-top: 50px;
+
+}
+
+  
+#adminlabel
+{
+    margin-left: 350px;
+    margin-top: 150px;
+    font-size: 20px;
+}
+
+
+
+.admin {
+  background-image:
+  url(
+  "../images/admin.jpg");
+  background-size: "cover";
+  height: 100vh;
+  margin-top: 20px;
+  margin-left: 150px;
+  font-size:50px;
+  background-repeat:no-repeat;
+  }
+  
+  

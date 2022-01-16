@@ -1,0 +1,38 @@
+#fr1,#fr3
+{
+    font-size: 15px;
+    padding-left: 120px;
+
+}
+
+#fr2
+{
+    font-size: 15px;
+    padding-left: 65px;
+
+}
+
+.card
+{
+    margin-top: 20px;
+
+}
+
+#labelFruits
+{
+    font-size: 20px;
+    margin-left: 600px;
+    margin-top: 7px;
+}
+
+.btn-primary
+{
+    margin-bottom: 4px;
+    background-color: green;
+}
+
+#imgser
+{
+    height: 300px;
+  width: 300px;
+}

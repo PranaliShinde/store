@@ -1,0 +1,15 @@
+.App3 {
+
+    text-align: right;
+
+    min-height: 30vh;
+
+    display:flexbox;
+
+    justify-content: right;
+
+    margin-left: 800px;
+    margin-top: 20px;
+    align-items: right;
+
+  }
