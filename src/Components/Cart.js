@@ -1,8 +1,8 @@
 import React, { useState, createContext, useContext, useReducer } from "react";
 import "./cart.css";
 import { products } from "./products";
-// import {len} from './products';
-// import {tot} from './products';
+import {len} from './products';
+import {tot} from './products';
 import ContextCart from "./ContextCart";
 
 // create a context
@@ -12,8 +12,8 @@ export const CartContext = createContext();
 
 const initialState = {
   item: products,
-  totalAmount: 256,
-  totalItems: 5,
+  totalAmount: tot,
+  totalItems: len,
   quantity: 1,
 };
 
